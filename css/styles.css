@@ -51,7 +51,7 @@ main {
   background-color: rgba(245, 208, 232, 0.4);
   width: 100vw;
   height: 100vh;
-  background-image: url("file:///Users/Laura/Web/fff/images/gato.png");
+  background-image: url("/MarinaWeb/images/gato.png");
   background-size: cover;
   z-index: -100;
 }
